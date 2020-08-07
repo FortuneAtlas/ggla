@@ -19,7 +19,7 @@ body {
 }
 
 .bg1 {
-  background-image: url("../../V&I/images/bg.png");
+  background-image: url("https://fortuneatlas.github.io/ggla/images/bg.png");
   color: white;
   background-size: cover;
   background-color: #4c3375;
@@ -29,7 +29,7 @@ body {
 
 @media (max-width: 720px) {
   .bg1 {
-    background-image: url("../../V&I/images/bg2.png");
+    background-image: url("https://fortuneatlas.github.io/ggla/images/bg2.png");
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 100%;
@@ -41,7 +41,7 @@ body {
 }
 
 .bg3 {
-  background-image: url("../../V&I/images/bg3.png");
+  background-image: url("https://fortuneatlas.github.io/ggla/images/b3.png");
   color: white;
   background-size: cover;
   background-color: #4c3375;
@@ -51,7 +51,7 @@ body {
 
 @media (max-width: 720px) {
   .bg3 {
-    background-image: url("../../V&I/images/bg3.png");
+    background-image: url("https://fortuneatlas.github.io/ggla/images/bg3.png");
     background-size: cover;
     background-repeat: no-repeat;
     max-width: 100%;
